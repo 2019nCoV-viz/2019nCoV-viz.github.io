@@ -1,1 +1,5 @@
-# viz
+## Develop
+
+```bash
+python -m SimpleHTTPServer 8000
+```
